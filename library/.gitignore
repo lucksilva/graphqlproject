@@ -1,0 +1,6 @@
+.aws
+.DS_Store
+*.pyc
+staticfiles
+.env
+*.sqlite3
